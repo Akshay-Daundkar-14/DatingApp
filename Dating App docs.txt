@@ -1,0 +1,22 @@
+
+
+								DATING APP 
+							
+							
+		Source code for the course ---> www.GitHub.com/trycatchlearn/datingapp
+		
+	-------------------------------------------------------------------------------------
+	
+	
+	# Walking skeleton : Tiny implementation of the system that performs a small end-to-end function.
+							Architecture & functionality can then evolve in parellel.
+							
+				
+	# dot net command :  
+	
+						1. dotnet --info 
+						2. dotnet -h
+						3. dotnet run >> to run the project
+						4. dotnet watch >> similer to hot reload
+						
+	* solution file is not mandatory to create the dot net project.
